@@ -1,0 +1,6 @@
+export const KARKOTLY_ID = ''
+export const AMINAH_ID = '532222678'
+export const SHAHED_ID = '321049245'
+export const SANA_ID = '478310038'
+export const FATIMAH_ID = '493649635'
+export const TELEGRAM_TOKEN = '6172486428:AAH55PL70VWAORCbo5TZmFEQfP15mSw2y68'

@@ -1,0 +1,7 @@
+export const pending = 'معلقة'
+export const accepted = 'مقبولة'
+export const inProgress  = 'جاري التحضير'
+export const readyToDeliver = 'جاهز للتوصيل'
+export const delivered = 'تم التوصيل'
+export const rejected = 'مرفوضة'
+export const canceled = 'Cancel'
